@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="BMI_Calculator_C#\BMI_Calculator_C#.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMI_Calculator_C#\Program.cs">
+    <Files>
+      <File FileName="BMI_Calculator_C#\Program.cs" Line="8" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

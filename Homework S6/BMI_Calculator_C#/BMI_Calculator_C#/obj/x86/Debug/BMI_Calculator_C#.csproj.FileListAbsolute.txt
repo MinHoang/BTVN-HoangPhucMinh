@@ -1,0 +1,5 @@
+C:\Users\hoang\OneDrive\Documents\BTVN-HoangPhucMinh\Homework S6\BMI_Calculator_C#\BMI_Calculator_C#\obj\x86\Debug\BMI_Calculator_C#.csprojResolveAssemblyReference.cache
+C:\Users\hoang\OneDrive\Documents\BTVN-HoangPhucMinh\Homework S6\BMI_Calculator_C#\BMI_Calculator_C#\bin\Debug\BMI_Calculator_C#.exe
+C:\Users\hoang\OneDrive\Documents\BTVN-HoangPhucMinh\Homework S6\BMI_Calculator_C#\BMI_Calculator_C#\bin\Debug\BMI_Calculator_C#.pdb
+C:\Users\hoang\OneDrive\Documents\BTVN-HoangPhucMinh\Homework S6\BMI_Calculator_C#\BMI_Calculator_C#\obj\x86\Debug\BMI_Calculator_C#.exe
+C:\Users\hoang\OneDrive\Documents\BTVN-HoangPhucMinh\Homework S6\BMI_Calculator_C#\BMI_Calculator_C#\obj\x86\Debug\BMI_Calculator_C#.pdb
