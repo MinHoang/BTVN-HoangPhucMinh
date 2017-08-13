@@ -1,0 +1,5 @@
+C:\Users\hoang\OneDrive\Documents\BTVN-HoangPhucMinh\Homework S7\UCLN\UCLN\obj\x86\Debug\UCLN.csprojResolveAssemblyReference.cache
+C:\Users\hoang\OneDrive\Documents\BTVN-HoangPhucMinh\Homework S7\UCLN\UCLN\bin\Debug\UCLN.exe
+C:\Users\hoang\OneDrive\Documents\BTVN-HoangPhucMinh\Homework S7\UCLN\UCLN\bin\Debug\UCLN.pdb
+C:\Users\hoang\OneDrive\Documents\BTVN-HoangPhucMinh\Homework S7\UCLN\UCLN\obj\x86\Debug\UCLN.exe
+C:\Users\hoang\OneDrive\Documents\BTVN-HoangPhucMinh\Homework S7\UCLN\UCLN\obj\x86\Debug\UCLN.pdb
